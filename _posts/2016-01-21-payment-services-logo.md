@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Digital/Identity
-datePublished: '2016-01-26T19:05:46.807Z'
+datePublished: '2016-01-26T19:05:46.808Z'
 dateModified: '2016-01-26T19:01:27.490Z'
 title: Payment Services Logo
 author: []
