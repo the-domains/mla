@@ -1,7 +1,7 @@
 name: MLA
 favicon: null
-layout_spectrum: 0.9024580090772361
-typography_spectrum: 0.73132
+layout_spectrum: 1
+typography_spectrum: 0.22465
 cta:
   domain: null
   bucket: null
