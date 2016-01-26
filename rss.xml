@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[MLA]]></title>
         <description><![CDATA[MLA]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mla/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jan 2016 20:26:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Jan 2016 19:06:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mla/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Payment Services Logo]]></title>
-            <description><![CDATA[<article><h1>Payment Services Logo</h1><p>Billed as the "innovation Event", the Payment Services group comes together each quater to exchange ideas, inspire each other and learn about what's new on the horizon. The Theme of the first event: wearables.</p></article>]]></description>
-            <link>undefinedpayment-services-logo/index.html</link>
+            <description><![CDATA[<article><h1>Payment Services Logo</h1><p>Billed as the "innovation Event", the Payment Services group comes together each quater to exchange ideas, inspire each other and learn about what's new on the horizon. The Theme of the first event: wearables.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e634b399c79da1142ed3a30853d37133b066a4d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/mla/payment-services-logo/index.html</link>
             <guid isPermaLink="false">daf2999a-32f7-4ffa-b8a7-ced3c038fe98</guid>
-            <pubDate>Thu, 21 Jan 2016 20:25:59 GMT</pubDate>
+            <pubDate>Tue, 26 Jan 2016 19:05:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
